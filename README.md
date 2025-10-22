@@ -1,2 +1,8 @@
 # Student-s-projects
 Проекты студентов за 2025-2026 год
+
+[Регистрация людей с лишним весом](https://github.com/Sunder32/ASSADSAD) 13.09  Заволокин Михаил, Гаран Ярослав  
+[Колесо фортуны](https://github.com/Sunder32/fortuna) 20.09 Заволокин Михаил, Гаран Ярослав, Воробьев Роман  
+[Уведомления о днях рождения](https://github.com/Sunder32/YvedDr) [Барби](https://github.com/Sunder32/BarbE) 27.09 Заволокин Михаил, Брекис Богдан, Кудряшов Андрей  
+[спасательная операция ](https://github.com/Sunder32/BoshBash) 04.10 Заволокин Михаил, Гаран Ярослав, Дедюхин Денис  
+[Оффлайн читалка](https://github.com/Sunder32/Kniga) [Генератор Музыки](https://github.com/Sunder32/Music) 11.10 Заволокин Михаил
