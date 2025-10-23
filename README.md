@@ -7,7 +7,7 @@
 [спасательная операция ](https://github.com/Sunder32/BoshBash) 04.10 Заволокин Михаил, Гаран Ярослав, Дедюхин Денис  
 [Оффлайн читалка](https://github.com/Sunder32/Kniga) [Генератор Музыки](https://github.com/Sunder32/Music) 11.10 Заволокин Михаил
 <br>
-[Веб-фотошоп](https://github.com/Hioka3/webphotoshop) 11.10.2025 Ильина Ксения
-[Каршеринг](https://github.com/Hioka3/carshering) 11.10.2025 Ильина Ксения
-[Рекламный сайт](https://github.com/Hioka3/coffim-sales-website) 20.10.2025 Ильина Ксения, Медведев Семён, Шайтанов Максим
-[Кулинарный блог](https://github.com/Hioka3/culinary-blog) 20.10.2025 Ильина Ксения, Медведев Семён, Шайтанов Максим
+[Веб-фотошоп](https://github.com/Hioka3/webphotoshop) 11.10.2025 Ильина Ксения <br>
+[Каршеринг](https://github.com/Hioka3/carshering) 11.10.2025 Ильина Ксения <br>
+[Рекламный сайт](https://github.com/Hioka3/coffim-sales-website) 20.10.2025 Ильина Ксения, Медведев Семён, Шайтанов Максим <br>
+[Кулинарный блог](https://github.com/Hioka3/culinary-blog) 20.10.2025 Ильина Ксения, Медведев Семён, Шайтанов Максим <br>
