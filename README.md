@@ -13,6 +13,16 @@
 [Рекламный сайт](https://github.com/Hioka3/coffim-sales-website) 20.10.2025 Ильина Ксения, Медведев Семён, Шайтанов Максим <br>
 [Кулинарный блог](https://github.com/Hioka3/culinary-blog) 20.10.2025 Ильина Ксения, Медведев Семён, Шайтанов Максим <br>
 
+[GPSalarm](https://github.com/nematovmark5-lgtm/GPSalarm.git) 23.10.2025 Нематов Марк<br>
+[БравлСПРАВОЧНИК](https://github.com/nematovmark5-lgtm/BravlSpravochnic.git) 23.10.2025 Нематов Марк, Богдан Брекис, Шамрило Дмитрий<br>
+[бронирование очереди в столовой](https://github.com/nematovmark5-lgtm/OcheredStolovoy.git) 23.10.2025 Нематов Марк, Ильина Ксения, Александров Андрей<br>
+[книга по ведьмаку](https://github.com/nematovmark5-lgtm/BooksVedmak.git) 23.10.2025 Нематов Марк, Богдан Брекис, Шамрило Дмитрий<br>
+[книжная полка](https://github.com/nematovmark5-lgtm/booksPOLKA.git) 23.10.2025 Нематов Марк, Дедюхин Денис, Воробьёв Роман<br>
+[Контроль склада](https://github.com/nematovmark5-lgtm/KontrolSklada.git) 23.10.2025 Нематов Марк, Зайцев Ярослав, Ильина Ксения, Воробьёв Роман<br>
+[СоветДня](https://github.com/nematovmark5-lgtm/SovetDny.git) 23.10.2025 Нематов Марк<br><br>
+
+=======
+
 [справочник оккультных наук](https://github.com/BrekisBog/Okult.git) 13.09  Брекис Богдан, Медведев Семен<br>
 [система монтажников](https://github.com/BrekisBog/Montag.git) 04.10 Брекис Богдан, Шамрило Дмитрий, Медведев Семен<br>
 [Веб-версия Git с визуализацией](https://github.com/BrekisBog/Vetochka.git) 11.10 Брекис Богдан<br>
@@ -39,3 +49,4 @@
 [Контроль склада](https://github.com/RifitGG/Warehouse_System) 04.10.2025 Зайцев Ярослав, Воробьев Роман, Ильина Ксения, Нематов Марк <br>
 [Whiteboard](https://github.com/RifitGG/BlankSheet) 11.10.2025 Зайцев Ярослав <br>
 [Организация мероприятий](https://github.com/RifitGG/EventPro) 11.10.2025 Зайцев Ярослав <br>
+
