@@ -12,3 +12,8 @@
 [Каршеринг](https://github.com/Hioka3/carshering) 11.10.2025 Ильина Ксения <br>
 [Рекламный сайт](https://github.com/Hioka3/coffim-sales-website) 20.10.2025 Ильина Ксения, Медведев Семён, Шайтанов Максим <br>
 [Кулинарный блог](https://github.com/Hioka3/culinary-blog) 20.10.2025 Ильина Ксения, Медведев Семён, Шайтанов Максим <br>
+
+[Мессенджер](https://github.com/Yarikttyui/Pink-Talk) 27.09.25 Гаран Ярослав, Ильина Ксения, Смирнова Валерия
+[Учет студентов](https://github.com/Yarikttyui/Aurum-Campus) 27.09.25 Гаран Ярослав, Ильина Ксения, Смирнова Валерия
+[Мессенджер](https://github.com/Yarikttyui/messsikq) 11.10 Гаран Ярослав
+[Проверка размера файлов](https://github.com/Yarikttyui/analiz) 11.10 Гаран Ярослав
