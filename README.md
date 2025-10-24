@@ -12,3 +12,9 @@
 [Каршеринг](https://github.com/Hioka3/carshering) 11.10.2025 Ильина Ксения <br>
 [Рекламный сайт](https://github.com/Hioka3/coffim-sales-website) 20.10.2025 Ильина Ксения, Медведев Семён, Шайтанов Максим <br>
 [Кулинарный блог](https://github.com/Hioka3/culinary-blog) 20.10.2025 Ильина Ксения, Медведев Семён, Шайтанов Максим <br>
+[Cправочник по дарк соулс 3](https://github.com/Freez0n/dark-souls-3-handbook) 20.09 Александров Андрей, Иванов Егор, Кудряшов Андрей
+[Винкс](https://github.com/Freez0n/winx) 27.09 Шайтанов Максим, Медведев Семён, Александров Андрей
+[Хеллоу Китти](https://github.com/Freez0n/hello_kitty) 27.09 Шайтанов Максим, Медведев Семён, Александров Андрей
+[Канцелярский склад](https://github.com/Freez0n/Warehouse) 04.10 Кудряшов Андрей, Александров Андрей
+[Приложение для обработки фото](https://github.com/Freez0n/PhotoFilterApp) 11.10 Александров Андрей
+[Приложение для создания диаграмм и графиков](https://github.com/Freez0n/chart) 11.10 Александров Андрей
