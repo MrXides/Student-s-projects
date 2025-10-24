@@ -12,3 +12,10 @@
 [Каршеринг](https://github.com/Hioka3/carshering) 11.10.2025 Ильина Ксения <br>
 [Рекламный сайт](https://github.com/Hioka3/coffim-sales-website) 20.10.2025 Ильина Ксения, Медведев Семён, Шайтанов Максим <br>
 [Кулинарный блог](https://github.com/Hioka3/culinary-blog) 20.10.2025 Ильина Ксения, Медведев Семён, Шайтанов Максим <br>
+[GPSalarm](https://github.com/nematovmark5-lgtm/GPSalarm.git) 23.10.2025 Нематов Марк
+[БравлСПРАВОЧНИК](https://github.com/nematovmark5-lgtm/BravlSpravochnic.git) 23.10.2025 Нематов Марк
+[бронирование очереди в столовой](https://github.com/nematovmark5-lgtm/OcheredStolovoy.git) 23.10.2025 Нематов Марк
+[книга по ведьмаку](https://github.com/nematovmark5-lgtm/BooksVedmak.git) 23.10.2025 Нематов Марк
+[книжная полка](https://github.com/nematovmark5-lgtm/booksPOLKA.git) 23.10.2025 Нематов Марк
+[Контроль склада](https://github.com/nematovmark5-lgtm/KontrolSklada.git) 23.10.2025 Нематов Марк
+[СоветДня](https://github.com/nematovmark5-lgtm/SovetDny.git) 23.10.2025 Нематов Марк
