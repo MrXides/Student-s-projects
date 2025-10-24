@@ -12,6 +12,12 @@
 [Каршеринг](https://github.com/Hioka3/carshering) 11.10.2025 Ильина Ксения <br>
 [Рекламный сайт](https://github.com/Hioka3/coffim-sales-website) 20.10.2025 Ильина Ксения, Медведев Семён, Шайтанов Максим <br>
 [Кулинарный блог](https://github.com/Hioka3/culinary-blog) 20.10.2025 Ильина Ксения, Медведев Семён, Шайтанов Максим <br>
+
+[Мессенджер](https://github.com/Yarikttyui/Pink-Talk) 27.09.25 Гаран Ярослав, Ильина Ксения, Смирнова Валерия
+[Учет студентов](https://github.com/Yarikttyui/Aurum-Campus) 27.09.25 Гаран Ярослав, Ильина Ксения, Смирнова Валерия
+[Мессенджер](https://github.com/Yarikttyui/messsikq) 11.10 Гаран Ярослав
+[Проверка размера файлов](https://github.com/Yarikttyui/analiz) 11.10 Гаран Ярослав
+=======
 [Автозапчасти](https://github.com/RifitGG/AutoPartsSuite) 13.09.2025 Зайцев Ярослав, Гаран Ярослав <br>
 [Карта барных коктейлей](https://github.com/RifitGG/CocatilMap) 20.09.2025 Зайцев Ярослав <br>
 [Личный кабинет студента](https://github.com/RifitGG/StudentProfile) 27.09.2025 Зайцев Ярослав, Иванов Егор, Петренко Кирилл <br>
@@ -19,3 +25,4 @@
 [Контроль склада](https://github.com/RifitGG/Warehouse_System) 04.10.2025 Зайцев Ярослав, Воробьев Роман, Ильина Ксения, Нематов Марк <br>
 [Whiteboard](https://github.com/RifitGG/BlankSheet) 11.10.2025 Зайцев Ярослав <br>
 [Организация мероприятий](https://github.com/RifitGG/EventPro) 11.10.2025 Зайцев Ярослав <br>
+
