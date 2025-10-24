@@ -13,6 +13,14 @@
 [Рекламный сайт](https://github.com/Hioka3/coffim-sales-website) 20.10.2025 Ильина Ксения, Медведев Семён, Шайтанов Максим <br>
 [Кулинарный блог](https://github.com/Hioka3/culinary-blog) 20.10.2025 Ильина Ксения, Медведев Семён, Шайтанов Максим <br>
 
+[Cправочник по дарк соулс 3](https://github.com/Freez0n/dark-souls-3-handbook) 20.09 Александров Андрей, Иванов Егор, Кудряшов Андрей<br>
+[Винкс](https://github.com/Freez0n/winx) 27.09 Шайтанов Максим, Медведев Семён, Александров Андрей<br>
+[Хеллоу Китти](https://github.com/Freez0n/hello_kitty) 27.09 Шайтанов Максим, Медведев Семён, Александров Андрей<br>
+[Канцелярский склад](https://github.com/Freez0n/Warehouse) 04.10 Кудряшов Андрей, Александров Андрей<br>
+[Приложение для обработки фото](https://github.com/Freez0n/PhotoFilterApp) 11.10 Александров Андрей<br>
+[Приложение для создания диаграмм и графиков](https://github.com/Freez0n/chart) 11.10 Александров Андрей<br>
+=======
+
 [Мессенджер](https://github.com/Yarikttyui/Pink-Talk) 27.09.25 Гаран Ярослав, Ильина Ксения, Смирнова Валерия
 [Учет студентов](https://github.com/Yarikttyui/Aurum-Campus) 27.09.25 Гаран Ярослав, Ильина Ксения, Смирнова Валерия
 [Мессенджер](https://github.com/Yarikttyui/messsikq) 11.10 Гаран Ярослав
