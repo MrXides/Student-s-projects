@@ -49,4 +49,5 @@
 [Контроль склада](https://github.com/RifitGG/Warehouse_System) 04.10.2025 Зайцев Ярослав, Воробьев Роман, Ильина Ксения, Нематов Марк <br>
 [Whiteboard](https://github.com/RifitGG/BlankSheet) 11.10.2025 Зайцев Ярослав <br>
 [Организация мероприятий](https://github.com/RifitGG/EventPro) 11.10.2025 Зайцев Ярослав <br>
-
+[Платформа для психологической помощи](https://github.com/Levington/Psixi) 11.10.2025 Медведев Семён <br>
+[Туториал по RUST](https://github.com/Levington/Rust) 11.10.2025 Медведев Семён <br>
