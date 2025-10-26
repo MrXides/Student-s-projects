@@ -3,6 +3,6 @@
 
 Состав команды: адское пламя: Брекис, Медведев: [Брекис Богдан](https://github.com/BrekisBog), [Медведев Семен](https://github.com/Levington), [Шамрило Дмитрий](https://github.com/404)
 
+Состав команды Баш Бош: [Заволокин Михаил](https://github.com/Sunder32), [Гаран Ярослав](https://github.com/Yarikttyui), [Дедюхин Денис](https://github.com/FaraPIMP)
+
 ## Лучшие проекты
-
-
