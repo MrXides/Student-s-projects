@@ -1,9 +1,9 @@
 # Неделя 1
 **Период**: 6-13 сентября 2025  
 
-Состав команды Инфошизики: [Заволокин Михаил](https://github.com/Sunder32), [Гаран Ярослав](https://github.com/участник2)
+Состав команды Инфошизики: [Заволокин Михаил](https://github.com/Sunder32), [Гаран Ярослав](https://github.com/Yarikttyui)
 
-Состав команды Брекис, Медведев: [Брекис Богдан](https://github.com/BrekisBog), [Медведев Семен](https://github.com/участник2)
+Состав команды Брекис, Медведев: [Брекис Богдан](https://github.com/BrekisBog), [Медведев Семен](https://github.com/Levington)
 
 Состав команды: 
 

@@ -5,7 +5,7 @@
 
 ## Участники
 - [Заволокин Михаил](https://github.com/Sunder32) 
-- [Гаран Ярослав](https://github.com/участник2)
+- [Гаран Ярослав](https://github.com/Yarikttyui)
 
 ## Репозиторий проекта
 https://github.com/Sunder32/ASSADSAD

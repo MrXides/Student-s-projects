@@ -5,8 +5,8 @@
 
 ## Участники
 - [Брекис Богдан](https://github.com/BrekisBog) 
-- [Медведев Семен](https://github.com/участник2)
-- [Шамрило Дмитрий](https://github.com/участник2)
+- [Медведев Семен](https://github.com/Levington)
+- [Шамрило Дмитрий](https://github.com/404)
   
 ## Репозиторий проекта
 https://github.com/BrekisBog/Montag.git
