@@ -9,4 +9,4 @@
 - [Шамрило Дмитрий](https://github.com/участник2)
   
 ## Репозиторий проекта
-https://github.com/BrekisBog/Okult.git
+https://github.com/BrekisBog/Montag.git
