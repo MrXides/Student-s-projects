@@ -7,4 +7,6 @@
 
 Состав команды Мясные синабоны: [Зайцев Ярослав](https://github.com/RifitGG), [Ильина Ксения](https://github.com/Hioka3), [Воробьёв Роман](https://github.com/Bibuk), [Марк Неъматов](https://github.com/nematovmark5-lgtm)
 
+Состав команды Привет Андрей!: [Александров Андрей](https://github.com/Freez0n), [Кудряшов Андрей](https://github.com/Delta200513)
+
 ## Лучшие проекты

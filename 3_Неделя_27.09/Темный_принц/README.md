@@ -6,7 +6,7 @@
 ## Участники
 - [Зайцев Ярослав](https://github.com/RifitGG) 
 - [Петренко Кирилл]()
-- [Иванов Егор]()
+- [Иванов Егор](https://github.com/pingwin228)
 
 ## Репозиторий проекта
 https://github.com/RifitGG/StudentProfile

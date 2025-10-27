@@ -5,8 +5,8 @@
 
 ## Участники
 - [Ильина Ксения](https://github.com/Hioka3) 
-- [Медведев Семён]
-- [Шайтанов Максим]
+- [Медведев Семён](https://github.com/Levington)
+- [Шайтанов Максим](https://github.com/Infity0)
 
 ## Репозиторий проекта
 https://github.com/Hioka3/culinary-blog<br>

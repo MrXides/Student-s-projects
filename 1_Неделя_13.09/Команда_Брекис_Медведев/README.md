@@ -5,7 +5,7 @@
 
 ## Участники
 - [Брекис Богдан](https://github.com/BrekisBog) 
-- [Медведев Семен](https://github.com/участник2)
+- [Медведев Семен](https://github.com/Levington)
 
 ## Репозиторий проекта
 https://github.com/BrekisBog/Okult.git

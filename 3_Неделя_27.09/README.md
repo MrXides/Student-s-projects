@@ -5,7 +5,7 @@
 
 Состав команды козлы отпущения: [Александров Андрей](https://github.com/Freez0n), [Медведев Семён](https://github.com/Levington), [Шайтанов Максим](https://github.com/Infity0) 
 
-Состав команды Темный принц: [Зайцев Ярослав](https://github.com/RifitGG),[Петренко Кирилл](), [Иванов Егор]()
+Состав команды Темный принц: [Зайцев Ярослав](https://github.com/RifitGG),[Петренко Кирилл](), [Иванов Егор](https://github.com/pingwin228)
 
 Состав команды "Тихий Омут": [Дедюхин Денис](https://github.com/pimp), [Воробьёв Роман](https://github.com/Bibuk), [Марк Неъматов](https://github.com/nematovmark5-lgtm)
 
