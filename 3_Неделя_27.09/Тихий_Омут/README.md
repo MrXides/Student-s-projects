@@ -1,0 +1,1 @@
+[Книжная полка](https://github.com/FaraPIMP/bookshelf) [Справочник по доте](https://github.com/FaraPIMP/dota2-handbook) 27.09 Дедюхин Денис, Воробьев Рома, Марк Неъматов
