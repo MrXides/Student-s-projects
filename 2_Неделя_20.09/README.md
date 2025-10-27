@@ -7,5 +7,7 @@
 
 Состав команды XXXs: [Александров Андрей](https://github.com/Freez0n), [Иванов Егор](https://github.com/pingwin228), [Кудряшов Андрей](https://github.com/Delta200513)
 
+Состав команды "поко": [Брекис Богдан](https://github.com/BrekisBog), [Марк Неъматов](https://github.com/nematovmark5-lgtm), [Шамрило Дмитрий](https://github.com/rilot6)
+
 ## Лучшие проекты
 

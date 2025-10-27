@@ -7,4 +7,6 @@
 
 Состав команды: Зайцев Ярослав, Гаран Ярослав: [Зайцев Ярослав](https://github.com/RifitGG), [Гаран Ярослав](https://github.com/Yarikttyui)
 
+Состав команды "Кодеры": [Ильина Ксения](https://github.com/Hioka3), [Александров Андрей](https://github.com/Freez0n), [Марк Неъматов](https://github.com/nematovmark5-lgtm)
+
 ## Лучшие проекты
