@@ -5,4 +5,6 @@
 
 Состав команды Баш Бош: [Заволокин Михаил](https://github.com/Sunder32), [Гаран Ярослав](https://github.com/Yarikttyui), [Дедюхин Денис](https://github.com/FaraPIMP)
 
+Состав команды "Мясные синабоны": [Зайцев Ярослав](https://github.com/404), [Ильина Ксения](https://github.com/Hioka3), [Марк Неъматов](https://github.com/nematovmark5-lgtm), [Воробьёв Роман](https://github.com/Bibuk)
+
 ## Лучшие проекты
