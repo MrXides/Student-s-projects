@@ -5,4 +5,6 @@
 
 Состав команды Баш Бош: [Заволокин Михаил](https://github.com/Sunder32), [Гаран Ярослав](https://github.com/Yarikttyui), [Дедюхин Денис](https://github.com/FaraPIMP)
 
+Состав команды Привет Андрей!: [Александров Андрей](https://github.com/Freez0n), [Кудряшов Андрей](https://github.com/Delta200513)
+
 ## Лучшие проекты
