@@ -5,7 +5,7 @@
 
 ## Участники
 - [Зайцев Ярослав](https://github.com/RifitGG) 
-- [Петренко Кирилл]()
+- [Петренко Кирилл](https://github.com/petrik1234)
 - [Иванов Егор](https://github.com/pingwin228)
 
 ## Репозиторий проекта
