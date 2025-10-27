@@ -6,7 +6,7 @@
 ## Участники
 - [Александров Андрей](https://github.com/Freez0n)
 - [Медведев Семён](https://github.com/Levington)
-- [Шайтанов Максим](https://github.com/404) 
+- [Шайтанов Максим](https://github.com/Infity0) 
 
 ## Репозиторий проекта
 [Винкс](https://github.com/Freez0n/winx)
