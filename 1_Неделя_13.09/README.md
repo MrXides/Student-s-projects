@@ -5,6 +5,6 @@
 
 Состав команды Брекис, Медведев: [Брекис Богдан](https://github.com/BrekisBog), [Медведев Семен](https://github.com/Levington)
 
-Состав команды: 
+Состав команды "Кодеры": [Ильина Ксения](https://github.com/Hioka3), [Александров Андрей](https://github.com/Freez0n), [Марк Неъматов](https://github.com/nematovmark5-lgtm)
 
 ## Лучшие проекты
