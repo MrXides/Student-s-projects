@@ -9,7 +9,7 @@
 
 Состав команды "Тихий Омут": [Дедюхин Денис](https://github.com/pimp), [Воробьёв Роман](https://github.com/Bibuk), [Марк Неъматов](https://github.com/nematovmark5-lgtm)
 
-Состав команды:
+Состав команды: "Чипенкосы": [Гаран Ярослав](https://github.com/Yarikttyui), [Ильина Ксения](https://github.com/Hioka3), [Смирнова Валерия]()
 
 ## Лучшие проекты
 
