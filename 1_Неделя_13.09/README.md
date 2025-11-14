@@ -9,4 +9,5 @@
 
 Состав команды "Кодеры": [Ильина Ксения](https://github.com/Hioka3), [Александров Андрей](https://github.com/Freez0n), [Марк Неъматов](https://github.com/nematovmark5-lgtm)
 
+Состав команды: Кудряшов, Шайтанов: [Кудршов Андрей](https://github.com/Delta200513), [Шайтанов Максимъ](https://github.com/Infity0)
 ## Лучшие проекты
