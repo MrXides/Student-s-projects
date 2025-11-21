@@ -7,7 +7,7 @@
 
 Состав команды Темный принц: [Зайцев Ярослав](https://github.com/RifitGG),[Петренко Кирилл](https://github.com/petrik1234), [Иванов Егор](https://github.com/pingwin228)
 
-Состав команды "Тихий Омут": [Дедюхин Денис](https://github.com/pimp), [Воробьёв Роман](https://github.com/Bibuk), [Марк Неъматов](https://github.com/nematovmark5-lgtm)
+Состав команды "Тихий Омут": [Дедюхин Денис]([https://github.com/FaraPIMP]), [Воробьёв Роман](https://github.com/Bibuk), [Марк Неъматов](https://github.com/nematovmark5-lgtm)
 
 Состав команды: "Чипенкосы": [Гаран Ярослав](https://github.com/Yarikttyui), [Ильина Ксения](https://github.com/Hioka3), [Смирнова Валерия]()
 
